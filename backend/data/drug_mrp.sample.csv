@@ -1,0 +1,9 @@
+# FICTIONAL SAMPLE DATA - NOT REAL MRPs. For demos and tests only.
+# Replace by putting real data in data/drug_mrp.csv. mrp is the price PER UNIT (tablet, vial, ml...).
+name,mrp,aliases,source
+Paracetamol 500mg tablet,2.00,paracetamol 500mg,FICTIONAL SAMPLE
+Amoxicillin 500mg capsule,8.00,amoxicillin 500mg,FICTIONAL SAMPLE
+Pantoprazole 40mg tablet,9.50,pantoprazole 40mg,FICTIONAL SAMPLE
+Ondansetron 4mg injection,18.00,ondansetron 4mg inj,FICTIONAL SAMPLE
+Ceftriaxone 1g injection,85.00,ceftriaxone 1g inj,FICTIONAL SAMPLE
+Normal saline 0.9% 500ml,45.00,ns 0.9% 500ml|sodium chloride 0.9% 500ml,FICTIONAL SAMPLE

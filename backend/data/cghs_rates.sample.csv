@@ -1,0 +1,16 @@
+# FICTIONAL SAMPLE DATA - NOT REAL CGHS RATES. For demos and tests only.
+# Replace by putting the real list in data/cghs_rates.csv (same columns; see README).
+code,name,nabh_rate,non_nabh_rate,aliases,source
+D-0102,Specialist consultation,350,300,consultation specialist|specialist opd consultation,FICTIONAL SAMPLE
+D-0501,General ward room charges,1500,1275,general ward|ward bed charges,FICTIONAL SAMPLE
+D-1201,Complete blood count,180,153,cbc|hemogram,FICTIONAL SAMPLE
+D-1202,Blood glucose fasting,60,51,fasting blood sugar|fbs,FICTIONAL SAMPLE
+D-1203,Serum creatinine,100,85,creatinine,FICTIONAL SAMPLE
+D-2104,Chest X-ray PA view,290,247,chest xray|xray chest pa,FICTIONAL SAMPLE
+D-2201,Ultrasound whole abdomen,1100,935,ultrasound abdomen|usg whole abdomen,FICTIONAL SAMPLE
+D-2301,Electrocardiogram,150,128,ecg|ekg,FICTIONAL SAMPLE
+D-2401,CT scan head plain,2500,2125,ct head|ct brain plain,FICTIONAL SAMPLE
+D-3310,Appendectomy open,22000,18700,open appendectomy,FICTIONAL SAMPLE
+D-3312,Appendectomy laparoscopic,31500,26775,laparoscopic appendectomy|lap appendectomy,FICTIONAL SAMPLE
+D-3501,Dressing minor,200,170,minor dressing,FICTIONAL SAMPLE
+D-4410,Intravenous cannula,380,323,iv cannula|iv cannulation,FICTIONAL SAMPLE

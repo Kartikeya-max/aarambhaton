@@ -1,0 +1,3 @@
+Fictional discharge summary (demo only).
+Patient admitted with acute appendicitis. Laparoscopic appendectomy performed under general
+anaesthesia. Post-operative recovery uneventful. Discharged on day 3 on oral antibiotics.

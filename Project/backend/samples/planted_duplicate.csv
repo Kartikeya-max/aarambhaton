@@ -1,0 +1,9 @@
+date,code,description,category,quantity,rate,amount
+2026-11-02,D-0102,Specialist consultation (OPD),,1,350,350
+2026-11-02,D-1201,Complete blood count (CBC),,1,180,180
+2026-11-02,D-2104,"Chest X-ray, PA view",,1,290,290
+2026-11-03,D-3312,Laparoscopic appendectomy,,1,31500,31500
+2026-11-03,D-0501,General ward room charges,,3,1500,4500
+2026-11-03,,Paracetamol 500mg tablet,drug,10,2.00,20.00
+2026-11-04,D-2201,"Ultrasound, whole abdomen",,1,1100,1100
+2026-11-02,D-1201,Complete blood count (CBC),,1,180,180
